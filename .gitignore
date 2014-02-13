@@ -30,6 +30,7 @@ ipch/
 [Dd]ebug*/
 [Rr]elease*/
 Ankh.NoLoad
+.[Dd]ot[Ss]ettings
 
 #MonoDevelop
 *.pidb
@@ -69,4 +70,3 @@ packages/
 
 # merge tool artifacts
 *.orig
-

@@ -14,5 +14,6 @@ This is a template for gitignore files for use in Visual Studio projects. It pat
 - Binary package files created by Nuget and Chocolatey. (Remove if you use git to manage your external packages.)
 - Temp files
 - In-IDE database artifacts
+- IDE settings
 
 Specific projects often require specific inclusions and exclusions. More general patterns will be pushed to this repo.
