@@ -30,7 +30,7 @@ ipch/
 [Dd]ebug*/
 [Rr]elease*/
 Ankh.NoLoad
-.[Dd]ot[Ss]ettings
+*.[Dd]ot[Ss]ettings
 
 #MonoDevelop
 *.pidb
