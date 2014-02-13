@@ -1,0 +1,1 @@
+This is my default gitignore file for new Visual Studio projects.
