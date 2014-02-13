@@ -8,6 +8,7 @@ This is a template for gitignore files for use in Visual Studio projects. It pat
 - Artifacts created by MonoDevelop
 - Artifacts created by JetBrains tools (Resharper and DotCover)
 - Artifacts created by testing tools
+- Artifacts created by merge tools
 - SASS intermediary compilation artifacts
 - Project build files
 - Binary package files created by Nuget and Chocolatey. (Remove if you use git to manage your external packages.)
