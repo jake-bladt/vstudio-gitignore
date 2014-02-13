@@ -1,4 +1,4 @@
-# Default gitignore for Visual Studio projects.
+## Default gitignore for Visual Studio projects.
 
 This is a template for gitignore files for use in Visual Studio projects. It pattern-matches the following:
 
