@@ -15,5 +15,6 @@ This is a template for gitignore files for use in Visual Studio projects. It pat
 - Temp files
 - In-IDE database artifacts
 - IDE settings
+- Vagrant VMs (for Mono developers)
 
 Specific projects often require specific inclusions and exclusions. More general patterns will be pushed to this repo.
