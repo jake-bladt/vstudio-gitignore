@@ -62,8 +62,10 @@ packages/
 *ncrunch*
 *crunch*.local.xml
 
-# visual studio database projects
+# visual studio database artifacts
 *.dbmdl
+db.lock
+
 
 #Test files
 *.testsettings
